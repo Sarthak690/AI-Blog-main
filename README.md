@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Davidrsferreira/AI-Blog.git
+   git clone https://github.com/Sarthak690/AI-Blog-main.git
    cd AI-Blog
 
    ```
@@ -81,6 +81,3 @@ To run this project locally, follow these steps:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
