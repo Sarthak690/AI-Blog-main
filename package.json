@@ -1,0 +1,36 @@
+{
+  "name": "nextjs-openai-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^3.5.0",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@tailwindcss/postcss": "^4.0.14",
+    "@webdeveducation/next-verify-stripe": "^1.0.1",
+    "micro-cors": "^0.1.1",
+    "mongodb": "^6.14.2",
+    "next": "15.2.2",
+    "numeral": "^2.0.6",
+    "openai": "^4.86.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-markdown": "^10.1.0",
+    "sharp": "^0.33.5",
+    "stripe": "^17.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "eslint": "9.22.0",
+    "eslint-config-next": "15.2.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14"
+  }
+}
